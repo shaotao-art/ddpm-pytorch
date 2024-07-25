@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=7 python run.py --config ./mnist_config.py --run_name 'ddim'
